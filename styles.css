@@ -114,7 +114,7 @@ section { padding: 4.5rem 0; }
   background: var(--surface); border: 1px solid var(--line);
   border-radius: 1.25rem; padding: 2.25rem;
 }
-@media (min-width: 48rem) { .feature { grid-template-columns: 1.3fr 1fr; padding: 3rem; } }
+@media (min-width: 48rem) { .feature { padding: 3rem; } }
 .badge {
   display: inline-block; font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase;
   background: var(--bg-warm); color: var(--accent-ink); border: 1px solid var(--accent-soft);
@@ -130,6 +130,7 @@ section { padding: 4.5rem 0; }
 .card p { margin: 0; color: var(--ink-soft); }
 
 .band { background: var(--bg-warm); }
+.subhead { margin-top: 3rem; }
 
 /* Legal / long-form */
 .page-head { background: var(--bg-warm); padding: 4rem 0 3rem; }
