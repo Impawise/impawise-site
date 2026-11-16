@@ -145,6 +145,7 @@ section { padding: 4.5rem 0; }
 
 .band { background: var(--bg-warm); }
 .subhead { margin-top: 3rem; }
+.langs { color: var(--ink-soft); font-size: 0.95rem; margin: 0 0 1.5rem; }
 
 /* Legal / long-form */
 .page-head { background: var(--bg-warm); padding: 4rem 0 3rem; }
